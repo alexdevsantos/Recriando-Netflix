@@ -12,7 +12,7 @@
 
 body{
     background: var(--preta);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: arial;
     color: white;
 }
 
@@ -103,4 +103,14 @@ header nav a:hover {
     width: 100%;
     display: block;
 
+}
+
+.carrosel-filmes {
+    margin-top: 5px;
+}
+
+.footer-a {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
